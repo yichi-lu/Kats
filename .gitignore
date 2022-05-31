@@ -16,6 +16,14 @@ dist/
 node_modules
 package-lock.json
 
+# venv
+bin/
+include/
+lib/
+etc/
+share/
+pyvenv.cfg
+
 lib/core/metadata.js
 lib/core/MetadataBlog.js
 
